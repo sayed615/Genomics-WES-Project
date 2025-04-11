@@ -42,7 +42,7 @@ Here are some additional resources that helped me understand the concepts better
 
 [![Git & GitHub Tutorial](https://img.youtube.com/vi/Q6G-J54vgKc/0.jpg)](https://youtu.be/Q6G-J54vgKc?si=5tfCH_6tXJwteamL)
 
-A simple and excellent video to learn Git and GitHub step by step.
+A simple and excellent video to learn Git and GitHub step by step (arabic source).
 
 **Task 1: Install Docker on WSL**
 - **Objective:** Set up Docker on your Windows Subsystem for Linux.
