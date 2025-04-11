@@ -1,7 +1,0 @@
-This file was created using git
-
-### Lesson Learned
-
-## Scientific Lessons: genomics, genetics, call variance, difference between extentions (BAM, FASTA, FASTQ), WES workflow
-
-## Technical Lessions: git commands, push and pull requests
